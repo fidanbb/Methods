@@ -1,0 +1,15 @@
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/bin/Debug/net6.0/ClassWorkMethods
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/bin/Debug/net6.0/ClassWorkMethods.deps.json
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/bin/Debug/net6.0/ClassWorkMethods.runtimeconfig.json
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/bin/Debug/net6.0/ClassWorkMethods.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/bin/Debug/net6.0/ClassWorkMethods.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.csproj.AssemblyReference.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.AssemblyInfoInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.AssemblyInfo.cs
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.csproj.CoreCompileInputs.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/refint/ClassWorkMethods.dll
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.pdb
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ClassWorkMethods.genruntimeconfig.cache
+/Users/thatisphii/Desktop/c#Homeworks/hm2/ClassWorkMethods/ClassWorkMethods/obj/Debug/net6.0/ref/ClassWorkMethods.dll

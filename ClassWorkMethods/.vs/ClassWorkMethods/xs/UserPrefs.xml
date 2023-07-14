@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{60B35629-310F-4422-BBFC-62A6E2AAAA2F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassWorkMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassWorkMethods/Program.cs">
+    <Files>
+      <File FileName="ClassWorkMethods/Program.cs" Line="253" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassWorkMethods" expanded="True">
+            <Node name="ClassWorkMethods" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
